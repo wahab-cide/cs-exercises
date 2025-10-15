@@ -1,0 +1,15 @@
+/Users/outhills/Desktop/cs-exercises/interfaces/bin/Debug/net9.0/interfaces
+/Users/outhills/Desktop/cs-exercises/interfaces/bin/Debug/net9.0/interfaces.deps.json
+/Users/outhills/Desktop/cs-exercises/interfaces/bin/Debug/net9.0/interfaces.runtimeconfig.json
+/Users/outhills/Desktop/cs-exercises/interfaces/bin/Debug/net9.0/interfaces.dll
+/Users/outhills/Desktop/cs-exercises/interfaces/bin/Debug/net9.0/interfaces.pdb
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.sourcelink.json
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.dll
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/refint/interfaces.dll
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.pdb
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/interfaces.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-exercises/interfaces/obj/Debug/net9.0/ref/interfaces.dll

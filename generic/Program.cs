@@ -1,50 +1,55 @@
-﻿using System.Net;
-using System.Reflection.Metadata;
-
-class Student : IComparable<Student>
+﻿public class Tuple<T1, T2>
 {
-    public string Name { get; set; }
-    public double GPA { get; set; }
+    T1 item1;
+    T2 item2;
 
-    public Student(string name, double gpa)
+    public Tuple(T1 i1, T2 i2)
     {
-        Name = name;
-        GPA = gpa;
+        item1 = i1;
+        item2 = i2;
     }
-
-    public int CompareTo(Student? other)
+    public static Tuple<B, A> Swap<A, B>(Tuple<A, B> tup)
     {
-        if (other == null) return 1;
-        return GPA.CompareTo(other.GPA);
+        return new Tuple<B, A>(tup.item2, tup.item1);
     }
 
     public override string ToString()
     {
-        return $"{Name} : {GPA}";
+        return $"({item1}, {item2})";
     }
 }
 
-class Program
+// recursive generic class 
+public class N<T>
 {
-    static void Main(string[] args)
+    public T value;
+    public N<T> next;
+
+    public N(T val, N<T> n)
     {
-        List<Student> students = new List<Student>();
+        value = val;
+        next = n;
+    }
+}
 
-        Student s1 = new Student("Wahab", 4.0);
-        Student s2 = new Student("Nimoh", 3.5);
-        Student s3 = new Student("Abel", 3.1);
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        var tup1 = new Tuple<int, string>(24, "hi");
+        Console.WriteLine(tup1);
 
-        students.Add(s1);
-        students.Add(s2);
-        students.Add(s3);
 
-        foreach (Student s in students)
-        {
-            Console.WriteLine(s);
-        }
+        int[] arr = new int[5] { 1, 2, 3, 4, 5 };
 
-        students.Sort();
-        Console.WriteLine($"Highest GPA is {students[^1]} and lowest is {students[0]}");
+        var tup2 = new Tuple<int[], string>(arr, "hello");
+        Console.WriteLine(tup2);
+        var tup3 = new Tuple<double, double>(3.4, 4.5);
+        Console.WriteLine(tup3);
+
+
+        var tup2R = Tuple<int[], string>.Swap(tup2);
+        Console.WriteLine(tup2R);
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/outhills/Desktop/cs-tutorial/recursion/recursion.csproj": {}
+    "/Users/outhills/Desktop/cs-exercises/recursion/recursion.csproj": {}
   },
   "projects": {
-    "/Users/outhills/Desktop/cs-tutorial/recursion/recursion.csproj": {
+    "/Users/outhills/Desktop/cs-exercises/recursion/recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/outhills/Desktop/cs-tutorial/recursion/recursion.csproj",
+        "projectUniqueName": "/Users/outhills/Desktop/cs-exercises/recursion/recursion.csproj",
         "projectName": "recursion",
-        "projectPath": "/Users/outhills/Desktop/cs-tutorial/recursion/recursion.csproj",
+        "projectPath": "/Users/outhills/Desktop/cs-exercises/recursion/recursion.csproj",
         "packagesPath": "/Users/outhills/.nuget/packages/",
-        "outputPath": "/Users/outhills/Desktop/cs-tutorial/recursion/obj/",
+        "outputPath": "/Users/outhills/Desktop/cs-exercises/recursion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/outhills/.nuget/NuGet/NuGet.Config"
