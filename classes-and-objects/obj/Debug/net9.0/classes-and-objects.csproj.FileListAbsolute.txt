@@ -1,0 +1,14 @@
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/bin/Debug/net9.0/classes-and-objects
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/bin/Debug/net9.0/classes-and-objects.deps.json
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/bin/Debug/net9.0/classes-and-objects.runtimeconfig.json
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/bin/Debug/net9.0/classes-and-objects.dll
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/bin/Debug/net9.0/classes-and-objects.pdb
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.dll
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/refint/classes-and-objects.dll
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.pdb
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/classes-and-objects.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-tutorial/classes-and-objects/obj/Debug/net9.0/ref/classes-and-objects.dll

@@ -1,0 +1,14 @@
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-tutorial/recursion/bin/Debug/net9.0/recursion
+/Users/outhills/Desktop/cs-tutorial/recursion/bin/Debug/net9.0/recursion.deps.json
+/Users/outhills/Desktop/cs-tutorial/recursion/bin/Debug/net9.0/recursion.runtimeconfig.json
+/Users/outhills/Desktop/cs-tutorial/recursion/bin/Debug/net9.0/recursion.dll
+/Users/outhills/Desktop/cs-tutorial/recursion/bin/Debug/net9.0/recursion.pdb
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.dll
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/refint/recursion.dll
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.pdb
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/recursion.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-tutorial/recursion/obj/Debug/net9.0/ref/recursion.dll
