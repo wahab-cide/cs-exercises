@@ -1,0 +1,15 @@
+/Users/outhills/Desktop/cs-exercises/abstract-classes/bin/Debug/net9.0/abstract-classes
+/Users/outhills/Desktop/cs-exercises/abstract-classes/bin/Debug/net9.0/abstract-classes.deps.json
+/Users/outhills/Desktop/cs-exercises/abstract-classes/bin/Debug/net9.0/abstract-classes.runtimeconfig.json
+/Users/outhills/Desktop/cs-exercises/abstract-classes/bin/Debug/net9.0/abstract-classes.dll
+/Users/outhills/Desktop/cs-exercises/abstract-classes/bin/Debug/net9.0/abstract-classes.pdb
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.sourcelink.json
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.dll
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/refint/abstract-classes.dll
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.pdb
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/abstract-classes.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-exercises/abstract-classes/obj/Debug/net9.0/ref/abstract-classes.dll
