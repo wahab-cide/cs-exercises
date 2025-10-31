@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 
 public class Student{
   public string? Name;
@@ -7,38 +8,33 @@ public class Student{
 
   public Student() {}
 
-  public Student(string name, int id, int gradYear){
+  public Student(string name, int id, int gradYear)
+  {
     Name = name;
     StudentID = id;
     GraduationYear = gradYear;
   }
+
+    public override bool Equals(object o)
+    {
+    if (o is Student s)
+      {return this.StudentID == s.StudentID && this.Name == s.Name;}
+    else return false;
+    }
 }
 public class Program{
   public static void Main(string[] args){
 
     Student[] students = new Student[4];
-    int count = 4;
 
-    for (int i = 0; i < count; i++){
-      Console.WriteLine($"Enter details for student {i + 1}");
+    students[0] = new Student("Wahab", 2027, 3123629);
+    students[1] = new Student("Wahab", 2027, 3123629);
+    students[2] = new Student("Mesfin", 2027, 3123629);
+    students[3] = new Student("Nimoh", 2027, 3123629);
 
-      Console.Write("Name: ");
-      string name = Console.ReadLine() ?? string.Empty;
+  
 
-      Console.Write("Student ID: ");
-      int id = int.Parse(Console.ReadLine() ?? "11111");
-
-      Console.Write("Graduation Year: ");
-      int gradyear = int.Parse(Console.ReadLine() ?? "2027");
-
-      Student s = new Student(name, id, gradyear);
-      students[i] = s;
-    }
-    Console.WriteLine("\n--- Students List ---");
-    foreach (Student s in students){
-
-      Console.WriteLine($"Name: {s.Name}, Student ID: {s.StudentID}, Graduation Year: {s.GraduationYear}");
-    }
+    Console.WriteLine(students[0].Equals(students[1]));
 
   }
 }

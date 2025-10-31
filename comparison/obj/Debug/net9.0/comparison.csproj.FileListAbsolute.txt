@@ -1,0 +1,15 @@
+/Users/outhills/Desktop/cs-exercises/comparison/bin/Debug/net9.0/comparison
+/Users/outhills/Desktop/cs-exercises/comparison/bin/Debug/net9.0/comparison.deps.json
+/Users/outhills/Desktop/cs-exercises/comparison/bin/Debug/net9.0/comparison.runtimeconfig.json
+/Users/outhills/Desktop/cs-exercises/comparison/bin/Debug/net9.0/comparison.dll
+/Users/outhills/Desktop/cs-exercises/comparison/bin/Debug/net9.0/comparison.pdb
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.sourcelink.json
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.dll
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/refint/comparison.dll
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.pdb
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/comparison.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-exercises/comparison/obj/Debug/net9.0/ref/comparison.dll

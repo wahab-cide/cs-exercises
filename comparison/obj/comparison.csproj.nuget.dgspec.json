@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/outhills/Desktop/cs-exercises/classes-and-objects/classes-and-objects.csproj": {}
+    "/Users/outhills/Desktop/cs-exercises/comparison/comparison.csproj": {}
   },
   "projects": {
-    "/Users/outhills/Desktop/cs-exercises/classes-and-objects/classes-and-objects.csproj": {
+    "/Users/outhills/Desktop/cs-exercises/comparison/comparison.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/outhills/Desktop/cs-exercises/classes-and-objects/classes-and-objects.csproj",
-        "projectName": "classes-and-objects",
-        "projectPath": "/Users/outhills/Desktop/cs-exercises/classes-and-objects/classes-and-objects.csproj",
+        "projectUniqueName": "/Users/outhills/Desktop/cs-exercises/comparison/comparison.csproj",
+        "projectName": "comparison",
+        "projectPath": "/Users/outhills/Desktop/cs-exercises/comparison/comparison.csproj",
         "packagesPath": "/Users/outhills/.nuget/packages/",
-        "outputPath": "/Users/outhills/Desktop/cs-exercises/classes-and-objects/obj/",
+        "outputPath": "/Users/outhills/Desktop/cs-exercises/comparison/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/outhills/.nuget/NuGet/NuGet.Config"
