@@ -1,0 +1,15 @@
+/Users/outhills/Desktop/cs-exercises/iterators/bin/Debug/net9.0/iterators
+/Users/outhills/Desktop/cs-exercises/iterators/bin/Debug/net9.0/iterators.deps.json
+/Users/outhills/Desktop/cs-exercises/iterators/bin/Debug/net9.0/iterators.runtimeconfig.json
+/Users/outhills/Desktop/cs-exercises/iterators/bin/Debug/net9.0/iterators.dll
+/Users/outhills/Desktop/cs-exercises/iterators/bin/Debug/net9.0/iterators.pdb
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.AssemblyInfoInputs.cache
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.AssemblyInfo.cs
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.csproj.CoreCompileInputs.cache
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.sourcelink.json
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.dll
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/refint/iterators.dll
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.pdb
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/iterators.genruntimeconfig.cache
+/Users/outhills/Desktop/cs-exercises/iterators/obj/Debug/net9.0/ref/iterators.dll
